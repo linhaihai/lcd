@@ -16,3 +16,6 @@ http://demo.cssmoban.com/cssthemes6/cpts_1899_djo/index.html
 
 http://www.cssmoban.com/cssthemes/8839.shtml
 http://demo.cssmoban.com/cssthemes6/tlip_4_digital-agency/index.html
+
+http://www.cssmoban.com/cssthemes/9060.shtml
+http://demo.cssmoban.com/cssthemes6/cpts_1953_dbg/index.html
